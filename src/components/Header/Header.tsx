@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 import ShoppingCartIcon from '@mui/icons-material/ShoppingCart';
-import { SwipeableDrawer } from '@mui/material';
-import { useState } from "react";
+// import { SwipeableDrawer } from '@mui/material';
+// import { useState } from "react";
 
 // const [showCart, setShowCart] = useState(false);
 

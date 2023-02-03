@@ -1,7 +1,7 @@
 import { Footer } from '@components/Footer/Footer'
 import { Grid } from '@components/Grid/Grid'
 import { Header } from '@components/Header/Header'
-import { HomepageCounter } from '@containers/counter/HomepageCounter'
+// import { HomepageCounter } from '@containers/counter/HomepageCounter'
 import styled from 'styled-components'
 
 /**
