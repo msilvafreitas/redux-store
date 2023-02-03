@@ -13,10 +13,10 @@ export const Counter: React.FC<CounterProps> = ({ count, add, remove }) => {
     <div className={styles.counter}>
       <h2 data-testid="counter-output">Count: {count}</h2>
       <button onClick={onAdd}>
-        <Icon name={'plus'} /> Add
+         Add
       </button>
       <button onClick={onRemove}>
-        <Icon name={'minus'} /> Remove
+         Remove
       </button>
     </div>
   )
